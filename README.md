@@ -1,9 +1,3 @@
---[[
-  ✅ Script Blox Fruits Mobile - GUI Estilo RedzHub - by IS
-  🔰 Otimizado para Delta Executor / Mobile
-  ⚔️ PvP | 🍍 Frutas | 🌍 Teleporte entre CÉAs | 🛠️ Utilitários
---]]
-
 -- Services
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
